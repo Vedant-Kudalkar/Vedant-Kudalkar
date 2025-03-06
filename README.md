@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vedant
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)]((https://github.com/Vedant-Kudalkar))
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/Vedant-Kudalkar)
 [![Twitter: YourTwitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox&logoColor=white&link=https://your-portfolio.com/)](https://your-portfolio.com/)
