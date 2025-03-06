@@ -7,13 +7,12 @@
 
 ## 💻 About Me
 
-I'm a passionate [Your Profession] based in [Your Location]. I enjoy building [types of applications/software/websites] and am constantly exploring new technologies to improve my skills.
+I'm a passionate Software Engineer, based in Mumbai,India. I enjoy building websites and am constantly exploring new technologies to improve my skills.
 
 - 🔭 I'm currently working on [current project]
-- 🌱 I'm currently learning [what you're learning]
-- 👯 I'm looking to collaborate on [types of projects]
+- 🌱 I'm currently learning Blockchain.
 - 💬 Ask me about [your expertise]
-- 📫 How to reach me: [your email]
+- 📫 How to reach me: vedant28kudalkar@gmail.com
 - ⚡ Fun fact: [interesting fact about yourself]
 
 ## 🛠️ Technologies & Tools
@@ -42,23 +41,5 @@ I'm a passionate [Your Profession] based in [Your Location]. I enjoy building [t
 <a href="https://github.com/your-username/project-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   5 hrs 32 mins   ███████████░░░░░░░░   45.98% 
-Python       2 hrs 46 mins   ██████░░░░░░░░░░░░░   23.02% 
-HTML         1 hr 30 mins    ███░░░░░░░░░░░░░░░░   12.53% 
-CSS          1 hr 5 mins     ██░░░░░░░░░░░░░░░░░   9.05% 
-JSON         29 mins         █░░░░░░░░░░░░░░░░░░   4.09%
-```
-<!--END_SECTION:waka-->
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ⭐️ From [your-username](https://github.com/your-username)
