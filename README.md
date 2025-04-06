@@ -36,8 +36,8 @@
 ---
 
 ### 🌟 Featured Projects:
-- 🎮 **[Infinite Runner Ultimate](https://github.com/Vedant-Kudalkar/Infinite-Runner-Ultimate)** - An AI-powered infinite runner game.
-- 🛍️ **[E-commerce Platform](https://github.com/Vedant-Kudalkar/E-commerce-Platform)** - A platform for Indian homegrown brands.
+- 🛍️ **[Collab Space](https://github.com/Vedant-Kudalkar/Collab_Space)** - An AI-powered Interview Preparation Website.
+- 📈 **[Colorization of Brain MRI Images](https://github.com/Vedant-Kudalkar/Colourization_of_Brain_MRI_Images_for_tumor_detection)** - Colorization of Brain MRI Images for Tumour Detection.
 - 📈 **[Stock Trend Prediction Web App](https://github.com/Vedant-Kudalkar/Stock-Trend-Predictor)** - AI-driven stock market predictions.
 
 ---
